@@ -1,0 +1,156 @@
+{
+  "@yaegassy/coc-volar|/Users/yongchenli/coding/web-frontend/qmrz/ICIN-lock-wechat-miniapp": {
+    "coc-volar-tsdk-path": "/Users/yongchenli/.config/coc/extensions/node_modules/@yaegassy/coc-volar/node_modules/typescript/lib"
+  },
+  "@yaegassy/coc-volar|/Users/yongchenli/coding/web-frontend/study/just-use-ui": {
+    "coc-volar-tsdk-path": "/Users/yongchenli/.config/coc/extensions/node_modules/@yaegassy/coc-volar/node_modules/typescript/lib"
+  },
+  "@yaegassy/coc-volar|/Users/yongchenli/coding/web-frontend/safematrix/swap-frontend": {
+    "coc-volar-tsdk-path": "/Users/yongchenli/.config/coc/extensions/node_modules/@yaegassy/coc-volar/node_modules/typescript/lib"
+  },
+  "@yaegassy/coc-volar|/Users/yongchenli/coding/web-frontend/safematrix/abmatrix-ui": {
+    "coc-volar-tsdk-path": "/Users/yongchenli/.config/coc/extensions/node_modules/@yaegassy/coc-volar/node_modules/typescript/lib"
+  },
+  "@yaegassy/coc-volar|/Users/yongchenli/coding/web-frontend/qmrz/wechat-miniapp-vue3-template": {
+    "coc-volar-tsdk-path": "/Users/yongchenli/.config/coc/extensions/node_modules/@yaegassy/coc-volar/node_modules/typescript/lib"
+  },
+  "@yaegassy/coc-volar|/Users/yongchenli/coding/web-frontend/qmrz/LianlianLockManagement-web": {
+    "coc-volar-tsdk-path": "/Users/yongchenli/.config/coc/extensions/node_modules/@yaegassy/coc-volar/node_modules/typescript/lib"
+  },
+  "@yaegassy/coc-volar|/Users/yongchenli/coding/web-frontend/qmrz/LianlianLock-fangke-miniapp": {
+    "coc-volar-tsdk-path": "/Users/yongchenli/.config/coc/extensions/node_modules/@yaegassy/coc-volar/node_modules/typescript/lib"
+  },
+  "@yaegassy/coc-volar|/Users/yongchenli/coding/web-frontend/qmrz/LianlianLock-fangdong-miniapp": {
+    "coc-volar-tsdk-path": "/Users/yongchenli/.config/coc/extensions/node_modules/@yaegassy/coc-volar/node_modules/typescript/lib"
+  },
+  "@yaegassy/coc-volar|/Users/yongchenli/coding/web-frontend/qmrz/online-booking-PMS-web": {
+    "coc-volar-tsdk-path": "/Users/yongchenli/.config/coc/extensions/node_modules/@yaegassy/coc-volar/node_modules/typescript/lib"
+  },
+  "@yaegassy/coc-volar|/Users/yongchenli/coding/web-frontend/qmrz/Wechat-PMS-Traveler": {
+    "coc-volar-tsdk-path": "/Users/yongchenli/.config/coc/extensions/node_modules/@yaegassy/coc-volar/node_modules/typescript/lib"
+  },
+  "@yaegassy/coc-volar|/Users/yongchenli/coding/web-frontend/qmrz": {
+    "coc-volar-tsdk-path": "/Users/yongchenli/.config/coc/extensions/node_modules/@yaegassy/coc-volar/node_modules/typescript/lib"
+  },
+  "@yaegassy/coc-volar|/Users/yongchenli/coding/web-frontend/qmrz/changxingScreenWeb": {
+    "coc-volar-tsdk-path": "/Users/yongchenli/.config/coc/extensions/node_modules/@yaegassy/coc-volar/node_modules/typescript/lib"
+  },
+  "@yaegassy/coc-volar|/Users/yongchenli/coding/web-frontend/qmrz/zjEducationFaceProjectWeb": {
+    "coc-volar-tsdk-path": "/Users/yongchenli/.config/coc/extensions/node_modules/@yaegassy/coc-volar/node_modules/typescript/lib"
+  },
+  "@yaegassy/coc-volar|/Users/yongchenli/Desktop/coding/web-frontend/qmrz/LianlianLock-fangke-miniapp": {
+    "coc-volar-tsdk-path": "/Users/yongchenli/.config/coc/extensions/node_modules/@yaegassy/coc-volar/node_modules/typescript/lib"
+  },
+  "@yaegassy/coc-volar|/Users/yongchenli/Desktop/coding/web-frontend/safematrix/bool-network-frontend": {
+    "coc-volar-tsdk-path": "/Users/yongchenli/.config/coc/extensions/node_modules/@yaegassy/coc-volar/node_modules/typescript/lib"
+  },
+  "@yaegassy/coc-volar|/Users/yongchenli/coding/web-frontend/study/component-party.dev": {
+    "coc-volar-tsdk-path": "/Users/yongchenli/.config/coc/extensions/node_modules/@yaegassy/coc-volar/node_modules/typescript/lib"
+  },
+  "@yaegassy/coc-volar|/Users/yongchenli/coding/web-frontend/study/nuxt-page": {
+    "coc-volar-tsdk-path": "/Users/yongchenli/.config/coc/extensions/node_modules/@yaegassy/coc-volar/node_modules/typescript/lib"
+  },
+  "@yaegassy/coc-volar|/Users/yongchenli/coding/web-frontend/qmrz/OMS_web": {
+    "coc-volar-tsdk-path": "/Users/yongchenli/.config/coc/extensions/node_modules/@yaegassy/coc-volar/node_modules/typescript/lib"
+  },
+  "@yaegassy/coc-volar|/Users/yongchenli/coding/web-frontend/safematrix/bool-network-frontend": {
+    "coc-volar-tsdk-path": "/Users/yongchenli/.config/coc/extensions/node_modules/@yaegassy/coc-volar/node_modules/typescript/lib"
+  },
+  "@yaegassy/coc-volar|/Users/yongchenli/coding/web-frontend/study/simple-frontend": {
+    "coc-volar-tsdk-path": "/Users/yongchenli/.config/coc/extensions/node_modules/@yaegassy/coc-volar/node_modules/typescript/lib"
+  },
+  "@yaegassy/coc-volar|/Users/yongchenli/coding/web-frontend/qmrz/PMS_registration_H5": {
+    "coc-volar-tsdk-path": "/Users/yongchenli/.config/coc/extensions/node_modules/@yaegassy/coc-volar/node_modules/typescript/lib"
+  },
+  "@yaegassy/coc-volar|/Users/yongchenli/coding/web-frontend/qmrz/huZhouPoliceViewDataWeb": {
+    "coc-volar-tsdk-path": "/Users/yongchenli/.config/coc/extensions/node_modules/@yaegassy/coc-volar/node_modules/typescript/lib"
+  },
+  "@yaegassy/coc-volar|/Users/yongchenli/coding/web-frontend/qmrz/nuxt-page": {
+    "coc-volar-tsdk-path": "/Users/yongchenli/.config/coc/extensions/node_modules/@yaegassy/coc-volar/node_modules/typescript/lib"
+  },
+  "@yaegassy/coc-volar|/Users/yongchenli/coding/web-frontend/qmrz/HZpublicRentalHousingWeb": {
+    "coc-volar-tsdk-path": "/Users/yongchenli/.config/coc/extensions/node_modules/@yaegassy/coc-volar/node_modules/typescript/lib"
+  },
+  "@yaegassy/coc-volar|/Users/yongchenli/coding/web-frontend/qmrz/publicRentalHousingLock-web": {
+    "coc-volar-tsdk-path": "/Users/yongchenli/.config/coc/extensions/node_modules/@yaegassy/coc-volar/node_modules/typescript/lib"
+  },
+  "@yaegassy/coc-volar|/Users/yongchenli/coding/web-frontend/safematrix/aleo-pool-frontend": {
+    "coc-volar-tsdk-path": "/Users/yongchenli/.config/coc/extensions/node_modules/@yaegassy/coc-volar/node_modules/typescript/lib"
+  },
+  "@yaegassy/coc-volar|/Users/yongchenli/coding/web-frontend/safematrix": {
+    "coc-volar-tsdk-path": "/Users/yongchenli/.config/coc/extensions/node_modules/@yaegassy/coc-volar/node_modules/typescript/lib"
+  },
+  "@yaegassy/coc-volar|/Users/yongchenli/coding/web-frontend/safematrix/abwallet-web": {
+    "coc-volar-tsdk-path": "/Users/yongchenli/.config/coc/extensions/node_modules/@yaegassy/coc-volar/node_modules/typescript/lib"
+  },
+  "coc-json|global": {
+    "json-schema-cache": {
+      "http://json.schemastore.org/prettierrc": {
+        "etag": "\"079e10ba4ada1:0\"",
+        "fileName": "b2ed7a7b6c79e58baf94e4ce160282de.schema.json",
+        "updateTime": 1716344412028
+      },
+      "https://json.schemastore.org/package.json": {
+        "etag": "\"0a624b1156da1:0\"",
+        "fileName": "473f72b44c2905902dfbcc770aab7f7a.schema.json",
+        "updateTime": 1716190027720
+      },
+      "https://json.schemastore.org/jscpd.json": {
+        "etag": "\"09e8ecc624ada1:0\"",
+        "fileName": "22bfc1ab1ff56aae62322f6ce45dab5a.schema.json",
+        "updateTime": 1716190029052
+      },
+      "https://json.schemastore.org/prettierrc.json": {
+        "etag": "\"079e10ba4ada1:0\"",
+        "fileName": "ea5ab10330a3ab77dfd6d00a735b0925.schema.json",
+        "updateTime": 1716190029026
+      },
+      "https://json.schemastore.org/semantic-release.json": {
+        "etag": "\"09e8ecc624ada1:0\"",
+        "fileName": "fbc95702ba6eddb3e2de4f52e31ca82a.schema.json",
+        "updateTime": 1716190029065
+      },
+      "https://json.schemastore.org/eslintrc.json": {
+        "etag": "\"8097a1efe48bda1:0\"",
+        "fileName": "c5064f140d4cfdbf4d6fbe68f68abbb1.schema.json",
+        "updateTime": 1716190029050
+      },
+      "https://json.schemastore.org/stylelintrc.json": {
+        "etag": "\"802db6e3f81da1:0\"",
+        "fileName": "000bfbdd14d2fb8ec5b0d59bec32ef98.schema.json",
+        "updateTime": 1716190029034
+      },
+      "https://json.schemastore.org/ava.json": {
+        "etag": "\"0d33f13698ada1:0\"",
+        "fileName": "635f57185b22bce9d3a56c68f5da4ad7.schema.json",
+        "updateTime": 1716190029064
+      },
+      "https://json.schemastore.org/partial-eslint-plugins.json": {
+        "etag": "\"069662d6d91da1:0\"",
+        "fileName": "fc7bb6e733b774ce47be6006f0b75b87.schema.json",
+        "updateTime": 1716190030430
+      },
+      "https://json.schemastore.org/tsconfig.json": {
+        "etag": "\"8097a1efe48bda1:0\"",
+        "fileName": "a28507e42e8bfd5fba830538461d5db3.schema.json",
+        "updateTime": 1716192878214
+      },
+      "https://turborepo.org/schema.json": {
+        "etag": "W/\"657ef6ae693cfa72746c59472abc8bfc\"",
+        "fileName": "bce6580503589fc7b80613688a8aa5bf.schema.json",
+        "updateTime": 1713431176512
+      },
+      "https://json.schemastore.org/tsconfig": {
+        "etag": "\"8097a1efe48bda1:0\"",
+        "fileName": "2384739db6ee5e827f2547bbfb3394b9.schema.json",
+        "updateTime": 1716194218956
+      }
+    }
+  },
+  "@yaegassy/coc-volar|/Users/yongchenli/coding/web-frontend/qmrz/goHomeHousingOperation_web": {
+    "coc-volar-tsdk-path": "/Users/yongchenli/.config/coc/extensions/node_modules/@yaegassy/coc-volar/node_modules/typescript/lib"
+  },
+  "@yaegassy/coc-volar|/Users/yongchenli/coding/web-frontend/study/vben-admin-thin": {
+    "coc-volar-tsdk-path": "/Users/yongchenli/.config/coc/extensions/node_modules/@yaegassy/coc-volar/node_modules/typescript/lib"
+  }
+}

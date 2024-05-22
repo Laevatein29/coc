@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "coc-tsserver": ">=2.1.4",
+    "coc-svelte": ">=0.5.0",
+    "coc-cssmodules": ">=1.1.1",
+    "@yaegassy/coc-volar-tools": ">=0.3.3",
+    "@yaegassy/coc-typescript-vue-plugin": ">=0.1.23",
+    "@yaegassy/coc-volar": ">=0.34.23",
+    "coc-snippets": ">=3.1.10",
+    "coc-eslint": ">=1.7.0",
+    "coc-prettier": ">=9.3.2",
+    "coc-json": ">=1.9.2"
+  }
+}
